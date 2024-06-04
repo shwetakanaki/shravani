@@ -1,5 +1,9 @@
 ufftrft
 hello woirld
+<<<<<<< HEAD
 ggdgd
 hi my name is sravani
 
+=======
+hi my name is sravani
+>>>>>>> cd66cad (Update demo.txt)
