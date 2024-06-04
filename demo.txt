@@ -1,3 +1,7 @@
 ufftrft
 hello woirld
+<<<<<<< HEAD
 ggdgd
+=======
+hi my name is sravani
+>>>>>>> cd66cad41fc7ad7c750bc45a2d455bb6a74e1b22
